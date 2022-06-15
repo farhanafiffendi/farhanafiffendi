@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/15h86Y8-j_NKCTszidLs8tHjXfeT3e_qd/view?usp=drivesdk](https://drive.google.com/file/d/15h86Y8-j_NKCTszidLs8tHjXfeT3e_qd/view?usp=drivesdk)
 
-- 💬 Ask me about **React js and Node js**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **farhanafiffendi19@gmail.com**
 
